@@ -1,1 +1,1 @@
-import clonexd
+import mthd_seq
